@@ -1,5 +1,5 @@
 {
-  "manifest_version": "1.0",
+  "manifest_version": "2.0",
   "name": "Firefox",
   "description": "Fast, private and safe web browser.",
   "version": "153.0.3",
@@ -38,6 +38,6 @@
     "network": true,
     "process": false,
     "asRoot": false,
-    "allowedHostCommands": []
+    "allowedHostCommands": ["xdg-open"]
   }
 }
