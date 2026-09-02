@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ARG FIREFOX_VERSION=154.0.1
+ARG FIREFOX_VERSION=155.0
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends ca-certificates curl xz-utils && \

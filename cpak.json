@@ -3,7 +3,7 @@
   "manifest_version": "3.0",
   "name": "Firefox",
   "description": "Fast, private and safe web browser.",
-  "version": "154.0.1",
+  "version": "155.0",
   "image": "ghcr.io/containerpak/firefox@sha256:abf0f6c8dbb869629ce254ba1ce9bde77f13e8169ca445691275e65e4d6cd715",
   "binaries": [
     "/usr/bin/firefox"
