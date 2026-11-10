@@ -4,7 +4,7 @@
   "name": "Firefox",
   "description": "Fast, private and safe web browser.",
   "version": "155.0.1",
-  "image": "ghcr.io/containerpak/firefox@sha256:e4c775725f90c2701be40ae94d3b20b4c1e601320a19d8cec883aeebe62de495",
+  "image": "ghcr.io/containerpak/firefox@sha256:05dd90792fee1f20e80074988f81ff91c948a7a2df29a0b651a01ddc1eeb809b",
   "binaries": [
     "/usr/bin/firefox"
   ],
